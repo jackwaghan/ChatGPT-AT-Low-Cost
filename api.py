@@ -6,7 +6,7 @@ import asyncio
 app = FastAPI()
 
 # Set your API key here
-API_KEY = "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"
+API_KEY = "GORK_API"
 client = Groq(api_key=API_KEY)
 
 
